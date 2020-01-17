@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightsTourBlazor", "KnightsTourBlazor\KnightsTourBlazor.csproj", "{30059C35-0623-4940-8B52-7236C6E8B4DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightsTourUnitTests", "KnightsTourUnitTests\KnightsTourUnitTests.csproj", "{ADAF0FB5-6F60-4407-BBA1-55451320983E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30059C35-0623-4940-8B52-7236C6E8B4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30059C35-0623-4940-8B52-7236C6E8B4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30059C35-0623-4940-8B52-7236C6E8B4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30059C35-0623-4940-8B52-7236C6E8B4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAF0FB5-6F60-4407-BBA1-55451320983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF0FB5-6F60-4407-BBA1-55451320983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF0FB5-6F60-4407-BBA1-55451320983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF0FB5-6F60-4407-BBA1-55451320983E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6B2568-FC44-4293-8B4B-5C3E45D610CB}
+	EndGlobalSection
+EndGlobal
